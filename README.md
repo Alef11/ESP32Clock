@@ -7,10 +7,10 @@ The backside features a powerport and a button. The button resets the clock inca
 The bottom has a second usb-c port which is for debugging and uploading code. While connected to that port the LED Matrix has to be turn off in order to not fry your USB port on your PC due to drawing to much amps.
 
 # Clock (with wrong diffuserplate)
-![image](https://github.com/user-attachments/assets/633f9707-32c9-4d3f-a3cf-19e1c2dedb32)
+![image2](https://github.com/user-attachments/assets/7337004d-2c0a-4f4c-91a5-ebf93e505e5a)
 
 # 4 5x5 LED Matrix
-![image4](https://github.com/user-attachments/assets/5aaf0211-6b88-4687-8b39-d891241a968e)
+![image4](https://github.com/user-attachments/assets/a449b2e5-68dd-4fad-84e9-1054b13fff1c)
 
 # Internals
-![image1](https://github.com/user-attachments/assets/2c1efd5c-3d47-4e3f-a589-39da15b725f5)
+![image1](https://github.com/user-attachments/assets/569069e6-31f5-4ae9-982f-291bafd67a7a)
